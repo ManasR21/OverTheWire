@@ -7,7 +7,7 @@ Welcome to my **OverTheWire Wargames** repository! This repository contains my w
 
 ## Wargames will be Covered
 
-- **Bandit**
+- **Bandit**✅
 - **Natas**
 - **Leviathan**
 - **Krypton**
