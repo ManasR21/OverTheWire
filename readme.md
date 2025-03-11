@@ -5,7 +5,7 @@ Welcome to my **OverTheWire Wargames** repository! This repository contains my w
 ## About OverTheWire
 [OverTheWire](https://overthewire.org/) provides a series of wargames designed to help individuals learn and practice cybersecurity concepts, Linux command-line skills, and privilege escalation techniques.
 
-## Wargames Covered
+## Wargames will be Covered
 
 - **Bandit**
 - **Natas**
